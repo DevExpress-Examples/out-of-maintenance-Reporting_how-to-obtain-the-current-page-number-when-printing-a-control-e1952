@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetThePageNumber", "GetThePageNumber\GetThePageNumber.csproj", "{486B35C1-E6C0-49CC-9261-43CE160BFADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486B35C1-E6C0-49CC-9261-43CE160BFADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486B35C1-E6C0-49CC-9261-43CE160BFADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486B35C1-E6C0-49CC-9261-43CE160BFADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486B35C1-E6C0-49CC-9261-43CE160BFADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
